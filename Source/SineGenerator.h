@@ -30,10 +30,6 @@ private:
     double kSampleRate;
     double kPhaseIncrement;
     void updateIncrement();
-    
-    
 };
-
-
 
 #endif  // SINEGENERATOR_H_INCLUDED

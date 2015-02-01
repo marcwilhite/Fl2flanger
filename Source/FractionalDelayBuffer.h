@@ -34,7 +34,4 @@ private:
     float* buffer;
 };
 
-
-
-
 #endif  // FRACTIONALDELAYBUFFER_H_INCLUDED

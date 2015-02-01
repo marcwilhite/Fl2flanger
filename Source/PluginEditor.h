@@ -30,7 +30,7 @@ public:
     //==============================================================================
     // This is just a standard Juce paint method...
     void paint (Graphics& g);
-    void changeListenerCallback(ChangeBroadcaster *source);
+    void changeListenerCallback(ChangeBroadcaster* source);
     void sliderValueChanged(Slider* slider);
     void mouseDown (const MouseEvent &event) override;
     void mouseUp (const MouseEvent &event) override;

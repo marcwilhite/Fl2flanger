@@ -11,7 +11,6 @@
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
-
 //==============================================================================
 Fl2flangerAudioProcessor::Fl2flangerAudioProcessor()
 {
@@ -256,8 +255,8 @@ void Fl2flangerAudioProcessor::processBlock (AudioSampleBuffer& buffer, MidiBuff
         float leftSamplesDelay = ((delayParam * 15) + 0.75) * (sampleRate/1000) + leftMod;
         float rightSamplesDelay = ((delayParam * 20) + 0.5) * (sampleRate/1000) + rightMod;
     
-        float l_xn = buffer.getWritePointer(0)[i];
-        float r_xn = buffer.getWritePointer(1)[i];
+        float l_xn = buffer.getReadPointer(0)[i];
+        float r_xn = buffer.getReadPointer(1)[i];
         
         float l_combined;
         float r_combined;

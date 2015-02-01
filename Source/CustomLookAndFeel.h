@@ -32,6 +32,4 @@ public:
 									 Slider & 	slider );
 };
 
-
-
 #endif  // CUSTOMLOOKANDFEEL_H_INCLUDED

@@ -1,0 +1,5 @@
+**/JuceLibraryCode
+**/Debug/**
+**/Release**
+.DS_Store
+**/xcuserdata/**

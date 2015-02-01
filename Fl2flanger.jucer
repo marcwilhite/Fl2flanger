@@ -23,7 +23,6 @@
       <FILE id="uQTLtO" name="FractionalDelayBuffer.h" compile="0" resource="0"
             file="Source/FractionalDelayBuffer.h"/>
       <FILE id="C807ZO" name="ParamSmooth.h" compile="0" resource="0" file="Source/ParamSmooth.h"/>
-      <FILE id="IX44ow" name="ParamSmoother.h" compile="0" resource="0" file="Source/ParamSmoother.h"/>
       <FILE id="greHej" name="SineGenerator.cpp" compile="1" resource="0"
             file="Source/SineGenerator.cpp"/>
       <FILE id="p7XfCZ" name="SineGenerator.h" compile="0" resource="0" file="Source/SineGenerator.h"/>

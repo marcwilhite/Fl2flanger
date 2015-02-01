@@ -1,5 +1,5 @@
 # Fl2flanger
 An Audio Flanger Plugin (made with the JUCE C++ Framework)
 
-![](https://dl-web.dropbox.com/get/images/fl2flanger.jpg?_subject_uid=24053981&w=AAD7KAX-pYo_7ejyyoOBN2h4nv5gnZS4IXZAilffrLJQzQ)
+![Fl2Flanger](https://github.com/marcwilhite/Fl2flanger/blob/master/image/fl2flanger.jpg)
 
